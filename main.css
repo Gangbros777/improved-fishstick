@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins' ,sans-serif;
+}
+.textbox-section1{
+    text-align: center;
+}
+.textbox-section2{
+    text-align: center;
+}
+.textbox-section3{
+    text-align: center;
+}
+.textbox-section4{
+    text-align: center;
+}
+.textbox-section5{
+    text-align: center;
+}
+.textbox-section6{
+    text-align: center;
+}
+.textbox-section7{
+    text-align: center;
+}
+.textbox-section8{
+    text-align: center;
+}
+.time{
+    padding: 20px;
+    font-size: 32px;
+    font-weight: 700;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding: 20px;
+}
